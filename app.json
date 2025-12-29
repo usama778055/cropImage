@@ -12,19 +12,16 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
-      },
-      "permissions": [
-        "RECORD_AUDIO"
-      ],
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
-      "package": "com.usamaimran.practice"
-    },
+  "adaptiveIcon": {
+    "backgroundColor": "#E6F4FE",
+    "foregroundImage": "./assets/images/android-icon-foreground.png",
+    "backgroundImage": "./assets/images/android-icon-background.png",
+    "monochromeImage": "./assets/images/android-icon-monochrome.png"
+  },
+  "edgeToEdgeEnabled": true,
+  "predictiveBackGestureEnabled": false,
+  "package": "com.usamaimran.practice"
+},
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png"
